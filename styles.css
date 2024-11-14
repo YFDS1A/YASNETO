@@ -1,0 +1,30 @@
+body {
+color:white;
+background:black;
+margin: 10px;
+font-family: "Sour Gummy", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px white;
+    margin 20px;
+}
+
+
+
+section{
+    background: rgb(237,34,175);
+    padding-bottom: 30px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%px;
+
+}
+
+h1 {
+ font-size: 23px;
+}
